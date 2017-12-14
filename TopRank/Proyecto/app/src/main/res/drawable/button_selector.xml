@@ -1,0 +1,24 @@
+<selector xmlns:android="http://schemas.android.com/apk/res/android">
+    <item
+        android:state_enabled="false"
+        android:drawable="@color/grey"
+        />
+
+    <padding
+        android:bottom="10dp"
+        android:left="10dp"
+        android:right="10dp"
+        android:top="10dp" />
+
+    <item
+        android:state_pressed="true"
+        android:state_enabled="true"
+        android:drawable="@color/colorPrimary"/>
+    <item
+        android:state_focused="true"
+        android:state_enabled="true"
+        android:drawable="@color/colorPrimary" />
+    <item
+        android:state_enabled="true"
+        android:drawable="@color/mymaincolor" />
+</selector>

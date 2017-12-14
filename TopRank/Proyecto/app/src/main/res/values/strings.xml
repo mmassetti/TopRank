@@ -1,0 +1,16 @@
+<resources>
+    <string name="app_name">TopRank</string>
+    <string name="hint_nombre">Escribir nombre...</string>
+    <string name="guardar_cambios">Guardar cambios</string>
+    <string name="cancelar">Cancelar</string>
+    <string name="busqueda">Búsqueda</string>
+    <string name="nuevo">Nuevo</string>
+    <string name="editar">Editar</string>
+    <string name="eliminar">Eliminar</string>
+    <string name="valoracion">Valoración</string>
+    <string name="guardar">Guardar</string>
+    <string name="volver">Volver</string>
+    <string name="orden">Orden</string>
+    <string name="eliminar_todo">Eliminar todo</string>
+    <string name="ver_pdf">Ver en pdf</string>
+</resources>
